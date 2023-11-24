@@ -1,6 +1,6 @@
 # scanthetic
 
-Complementing the Inventory Management System Dashboard, this mobile app, built with Flutter, serves as a versatile tool for on-the-go stock management. Focused on simplicity and efficiency, the app provides essential features such as scanning, product search, and real-time stock summaries, offering a seamless and convenient experience.
+Complementing the Inventory Management System Dashboard (https://github.com/KwakuJoe/Inventory_scan_dashbaord), this mobile app, built with Flutter, serves as a versatile tool for on-the-go stock management. Focused on simplicity and efficiency, the app provides essential features such as scanning, product search, and real-time stock summaries, offering a seamless and convenient experience.
 
 ## Getting Started
 
